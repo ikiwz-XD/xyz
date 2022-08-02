@@ -7,4 +7,6 @@ git clone https://github.com/mchoyoga/xyz
 
 cd xyz
 
-python yoga.py
+git pull
+
+python turbo.py
